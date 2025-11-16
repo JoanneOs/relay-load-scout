@@ -1,0 +1,28 @@
+# web scraping dependencies
+requests==2.31.0
+beautifulsoup4==4.12.2
+selenium==4.15.0
+lxml==4.9.3
+
+# notification dependencies  
+twilio==8.10.0
+python-dotenv==1.0.0
+
+# scheduling and background tasks
+schedule==1.2.0
+apscheduler==3.10.4
+
+# data processing and validation
+pandas==2.1.3
+pydantic==2.5.0
+
+# development and testing
+pytest==7.4.0
+pytest-cov==4.1.0
+black==23.11.0
+flake8==6.1.0
+
+# logging and utilities
+structlog==23.2.0
+python-dateutil==2.8.2
+pytz==2023.3.post1
